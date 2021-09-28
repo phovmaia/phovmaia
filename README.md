@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello world, I'm Pedro Henrique aka phovmaia 👋
+
+
+
+<div align="left">
+  <a href="https://github.com/phovmaia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phovmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phovmaia&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 <!--
 **phovmaia/phovmaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

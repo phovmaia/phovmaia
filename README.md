@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
 </div>  
   
-<div align="left">
+<div align="center">
   <a href="https://github.com/phovmaia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phovmaia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phovmaia&layout=compact&langs_count=7&theme=dark"/>

@@ -1,8 +1,7 @@
 ### Hello world, I'm Pedro Henrique aka phovmaia 👋
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m getting deeper into some frameworks like django, fastapi, node.js, express, gatsby and react
-- 💪 Working to reach the goal to be a fullstack dev
+- 🔭 I’m currently fullstack intern developer
+- 💪 I’m getting deeper into JavaScript, TypeScript, API and REST API, Docker and AWS  
 - 😄 Pronouns: he/him
 ##
 <div>

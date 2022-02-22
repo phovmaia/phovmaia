@@ -1,7 +1,9 @@
 
 ### Hello world,
-### I'm Pedro Henrique Maia aka PH, Pedrinho or Floki 👋
-- I’m a fullstack junior developer 👨‍💻
+### I'm Pedro Henrique Maia aka phovmaia, Pedrinho or Floki 👋
+- Full-stack developer 👨‍💻
+- Back-end lover ❤️
+- Always looking for better ways to solve problems
 
 ### That's what I use most on my job
 <div>
@@ -10,7 +12,6 @@
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 	<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
-	<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 	
@@ -26,9 +27,10 @@
 </div>
 
 ##
-### Techonologies that I'm into 🤓
+### Techonologies that I'm confortable with and always learning more 🤓
 <div>
   	<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -76,8 +78,8 @@
   <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" target="_blank">
   </div>
   
-  - Getting back to running 🏃‍♂️
-  - Always trying to keep body and mind healthy 💪🧠
+  - Always focusing on my mental health
+  - Also trying to keep always a health body  💪🧠
   - Don't forget you always can! Just do it!
   
 ##

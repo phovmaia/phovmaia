@@ -1,11 +1,10 @@
 
 ### Hello world,
-### I'm Pedro Henrique Maia aka phovmaia, Pedrinho or Floki 👋
-- Full-stack developer 👨‍💻
-- Back-end lover ❤️
+### I'm Pedro Henrique Maia aka phovmaia 👋
+- Fullstack developer focused on back-end 👨‍💻
 - Always looking for better ways to solve problems
 
-### That's what I use most on my job
+### That's what I most use
 <div>
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">

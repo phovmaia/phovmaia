@@ -18,7 +18,7 @@
 
 ### 🖥 Desktop
 
-##### Here I run dual boot but I'm almost always using WSL now on desktop
+#### Here I run dual boot but I'm almost always using WSL now on desktop
 
 <div>
 <img src="https://img.shields.io/badge/Intel-Core_i9_9th-9900K?style=for-the-badge&logo=intel&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank">
